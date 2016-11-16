@@ -1,5 +1,7 @@
 # Dat Colors
+CSS color variables for Dat
 
+## Styles
 ````css
 :root {
   --color-white: #FFFFFF;

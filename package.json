@@ -1,7 +1,8 @@
 {
   "name": "dat-colors",
   "version": "1.0.0",
-  "description": "",
+  "description": "CSS color variables for Dat",
+  "repository": "kriesse/dat-colors",
   "main": "index.css",
   "author": "Kristina Schneider (http://kristinaschneider.com)",
   "license": "MIT"
