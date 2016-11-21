@@ -1,6 +1,6 @@
 {
   "name": "dat-colors",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "CSS color variables for Dat",
   "repository": "kriesse/dat-colors",
   "main": "index.css",
