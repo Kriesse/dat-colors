@@ -3,7 +3,8 @@
   "version": "3.2.0",
   "description": "CSS color variables for Dat",
   "repository": "kriesse/dat-colors",
-  "main": "index.css",
+  "main": "index.js",
+  "styles": "index.css",
   "author": "Kristina Schneider (http://kristinaschneider.com)",
   "license": "MIT"
 }
