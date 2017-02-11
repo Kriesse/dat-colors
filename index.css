@@ -35,40 +35,109 @@
   --color-pink: #F9A5E4;
 }
 
-.white { color: #FFFFFF }
-.neutral { color: #293648 }
-.neutral-90 { color: #394B5B }
-.neutral-80 { color: #505F6D }
-.neutral-70 { color: #65737F }
-.neutral-60 { color: #7C8792 }
-.neutral-50 { color: #919BA4 }
-.neutral-40 { color: #A7AFB6 }
-.neutral-30 { color: #C3C9CD }
-.neutral-20 { color: #D3D7DB }
-.neutral-14 { color: #E0E3E5 }
-.neutral-10 { color: #E9EBEC }
-.neutral-04 { color: #F6F7F8 }
-.green { color: #2ACA4B }
-.green-hover { color: #199E33 }
-.green-darker { color: #006607 }
-.green-disabled { color: #94E4A5 }
-.blue { color: #007FFF }
-.blue-hover { color: #0066CC }
-.blue-darker { color: #003E83 }
-.blue-disabled { color: #7FBFFF }
-.mint { color: #159F84 }
-.mint-hover { color: #0B856D }
-.mint-darker { color: #045943 }
-.mint-disabled { color: #8ACFC1 }
-.yellow { color: #F2CD02 }
-.yellow-hover { color: #C4A500 }
-.yellow-darker { color: #9F7D07 }
-.yellow-disabled { color: #FBF0B3 }
-.red { color: #D8524E }
-.red-hover { color: #B33C38 }
-.red-darker { color: #A52724 }
-.red-disabled { color: #EBA8A6 }
-.pink { color: #F9A5E4 }
+.color-white { color: #FFFFFF }
+.color-neutral { color: #293648 }
+.color-neutral-90 { color: #394B5B }
+.color-neutral-80 { color: #505F6D }
+.color-neutral-70 { color: #65737F }
+.color-neutral-60 { color: #7C8792 }
+.color-neutral-50 { color: #919BA4 }
+.color-neutral-40 { color: #A7AFB6 }
+.color-neutral-30 { color: #C3C9CD }
+.color-neutral-20 { color: #D3D7DB }
+.color-neutral-14 { color: #E0E3E5 }
+.color-neutral-10 { color: #E9EBEC }
+.color-neutral-04 { color: #F6F7F8 }
+.color-green { color: #2ACA4B }
+.color-green-hover { color: #199E33 }
+.color-green-darker { color: #006607 }
+.color-green-disabled { color: #94E4A5 }
+.color-blue { color: #007FFF }
+.color-blue-hover { color: #0066CC }
+.color-blue-darker { color: #003E83 }
+.color-blue-disabled { color: #7FBFFF }
+.color-mint { color: #159F84 }
+.color-mint-hover { color: #0B856D }
+.color-mint-darker { color: #045943 }
+.color-mint-disabled { color: #8ACFC1 }
+.color-yellow { color: #F2CD02 }
+.color-yellow-hover { color: #C4A500 }
+.color-yellow-darker { color: #9F7D07 }
+.color-yellow-disabled { color: #FBF0B3 }
+.color-red { color: #D8524E }
+.color-red-hover { color: #B33C38 }
+.color-red-darker { color: #A52724 }
+.color-red-disabled { color: #EBA8A6 }
+.color-pink { color: #F9A5E4 }
+
+.hover-color-white:hover,
+.hover-color-white:focus { color: #FFFFFF }
+.hover-color-neutral:hover,
+.hover-color-neutral:focus { color: #293648 }
+.hover-color-neutral-90:hover,
+.hover-color-neutral-90:focus { color: #394B5B }
+.hover-color-neutral-80:hover,
+.hover-color-neutral-80:focus { color: #505F6D }
+.hover-color-neutral-70:hover,
+.hover-color-neutral-70:focus { color: #65737F }
+.hover-color-neutral-60:hover,
+.hover-color-neutral-60:focus { color: #7C8792 }
+.hover-color-neutral-50:hover,
+.hover-color-neutral-50:focus { color: #919BA4 }
+.hover-color-neutral-40:hover,
+.hover-color-neutral-40:focus { color: #A7AFB6 }
+.hover-color-neutral-30:hover,
+.hover-color-neutral-30:focus { color: #C3C9CD }
+.hover-color-neutral-20:hover,
+.hover-color-neutral-20:focus { color: #D3D7DB }
+.hover-color-neutral-14:hover,
+.hover-color-neutral-14:focus { color: #E0E3E5 }
+.hover-color-neutral-10:hover,
+.hover-color-neutral-10:focus { color: #E9EBEC }
+.hover-color-neutral-04:hover,
+.hover-color-neutral-04:focus { color: #F6F7F8 }
+.hover-color-green:hover,
+.hover-color-green:focus { color: #2ACA4B }
+.hover-color-green-hover:hover,
+.hover-color-green-hover:focus { color: #199E33 }
+.hover-color-green-darker:hover,
+.hover-color-green-darker:focus { color: #006607 }
+.hover-color-green-disabled:hover,
+.hover-color-green-disabled:focus { color: #94E4A5 }
+.hover-color-blue:hover,
+.hover-color-blue:focus { color: #007FFF }
+.hover-color-blue-hover:hover,
+.hover-color-blue-hover:focus { color: #0066CC }
+.hover-color-blue-darker:hover,
+.hover-color-blue-darker:focus { color: #003E83 }
+.hover-color-blue-disabled:hover,
+.hover-color-blue-disabled:focus { color: #7FBFFF }
+.hover-color-mint:hover,
+.hover-color-mint:focus { color: #159F84 }
+.hover-color-mint-hover:hover,
+.hover-color-mint-hover:focus { color: #0B856D }
+.hover-color-mint-darker:hover,
+.hover-color-mint-darker:focus { color: #045943 }
+.hover-color-mint-disabled:hover,
+.hover-color-mint-disabled:focus { color: #8ACFC1 }
+.hover-color-yellow:hover,
+.hover-color-yellow:focus { color: #F2CD02 }
+.hover-color-yellow-hover:hover,
+.hover-color-yellow-hover:focus { color: #C4A500 }
+.hover-color-yellow-darker:hover,
+.hover-color-yellow-darker:focus { color: #9F7D07 }
+.hover-color-yellow-disabled:hover,
+.hover-color-yellow-disabled:focus { color: #FBF0B3 }
+.hover-color-red:hover,
+.hover-color-red:focus { color: #D8524E }
+.hover-color-red-hover:hover,
+.hover-color-red-hover:focus { color: #B33C38 }
+.hover-color-red-darker:hover,
+.hover-color-red-darker:focus { color: #A52724 }
+.hover-color-red-disabled:hover,
+.hover-color-red-disabled:focus { color: #EBA8A6 }
+.hover-color-pink:hover,
+.hover-color-pink:focus { color: #F9A5E4 }
 
 .bg-white { background-color: #FFFFFF }
 .bg-neutral { background-color: #293648 }
@@ -104,3 +173,72 @@
 .bg-red-darker { background-color: #A52724 }
 .bg-red-disabled { background-color: #EBA8A6 }
 .bg-pink { background-color: #F9A5E4 }
+
+.hover-bg-white:hover,
+.hover-bg-white:focus { background-color: #FFFFFF }
+.hover-bg-neutral:hover,
+.hover-bg-neutral:focus { background-color: #293648 }
+.hover-bg-neutral-90:hover,
+.hover-bg-neutral-90:focus { background-color: #394B5B }
+.hover-bg-neutral-80:hover,
+.hover-bg-neutral-80:focus { background-color: #505F6D }
+.hover-bg-neutral-70:hover,
+.hover-bg-neutral-70:focus { background-color: #65737F }
+.hover-bg-neutral-60:hover,
+.hover-bg-neutral-60:focus { background-color: #7C8792 }
+.hover-bg-neutral-50:hover,
+.hover-bg-neutral-50:focus { background-color: #919BA4 }
+.hover-bg-neutral-40:hover,
+.hover-bg-neutral-40:focus { background-color: #A7AFB6 }
+.hover-bg-neutral-30:hover,
+.hover-bg-neutral-30:focus { background-color: #C3C9CD }
+.hover-bg-neutral-20:hover,
+.hover-bg-neutral-20:focus { background-color: #D3D7DB }
+.hover-bg-neutral-14:hover,
+.hover-bg-neutral-14:focus { background-color: #E0E3E5 }
+.hover-bg-neutral-10:hover,
+.hover-bg-neutral-10:focus { background-color: #E9EBEC }
+.hover-bg-neutral-04:hover,
+.hover-bg-neutral-04:focus { background-color: #F6F7F8 }
+.hover-bg-green:hover,
+.hover-bg-green:focus { background-color: #2ACA4B }
+.hover-bg-green-hover:hover,
+.hover-bg-green-hover:focus { background-color: #199E33 }
+.hover-bg-green-darker:hover,
+.hover-bg-green-darker:focus { background-color: #006607 }
+.hover-bg-green-disabled:hover,
+.hover-bg-green-disabled:focus { background-color: #94E4A5 }
+.hover-bg-blue:hover,
+.hover-bg-blue:focus { background-color: #007FFF }
+.hover-bg-blue-hover:hover,
+.hover-bg-blue-hover:focus { background-color: #0066CC }
+.hover-bg-blue-darker:hover,
+.hover-bg-blue-darker:focus { background-color: #003E83 }
+.hover-bg-blue-disabled:hover,
+.hover-bg-blue-disabled:focus { background-color: #7FBFFF }
+.hover-bg-mint:hover,
+.hover-bg-mint:focus { background-color: #159F84 }
+.hover-bg-mint-hover:hover,
+.hover-bg-mint-hover:focus { background-color: #0B856D }
+.hover-bg-mint-darker:hover,
+.hover-bg-mint-darker:focus { background-color: #045943 }
+.hover-bg-mint-disabled:hover,
+.hover-bg-mint-disabled:focus { background-color: #8ACFC1 }
+.hover-bg-yellow:hover,
+.hover-bg-yellow:focus { background-color: #F2CD02 }
+.hover-bg-yellow-hover:hover,
+.hover-bg-yellow-hover:focus { background-color: #C4A500 }
+.hover-bg-yellow-darker:hover,
+.hover-bg-yellow-darker:focus { background-color: #9F7D07 }
+.hover-bg-yellow-disabled:hover,
+.hover-bg-yellow-disabled:focus { background-color: #FBF0B3 }
+.hover-bg-red:hover,
+.hover-bg-red:focus { background-color: #D8524E }
+.hover-bg-red-hover:hover,
+.hover-bg-red-hover:focus { background-color: #B33C38 }
+.hover-bg-red-darker:hover,
+.hover-bg-red-darker:focus { background-color: #A52724 }
+.hover-bg-red-disabled:hover,
+.hover-bg-red-disabled:focus { background-color: #EBA8A6 }
+.hover-bg-pink:hover,
+.hover-bg-pink:focus { background-color: #F9A5E4 }
