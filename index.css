@@ -1,5 +1,6 @@
 :root {
   --color-white: #FFFFFF;
+  --color-black: #070B14;
   --color-neutral: #293648;
   --color-neutral-90: #394B5B;
   --color-neutral-80: #505F6D;
@@ -36,6 +37,7 @@
 }
 
 .color-white { color: #FFFFFF }
+.color-black { color: #070B14 }
 .color-neutral { color: #293648 }
 .color-neutral-90 { color: #394B5B }
 .color-neutral-80 { color: #505F6D }
@@ -72,6 +74,8 @@
 
 .hover-color-white:hover,
 .hover-color-white:focus { color: #FFFFFF }
+.hover-color-black:hover,
+.hover-color-black:focus { color: #070B14 }
 .hover-color-neutral:hover,
 .hover-color-neutral:focus { color: #293648 }
 .hover-color-neutral-90:hover,
@@ -140,6 +144,7 @@
 .hover-color-pink:focus { color: #F9A5E4 }
 
 .bg-white { background-color: #FFFFFF }
+.bg-black { background-color: #070B14 }
 .bg-neutral { background-color: #293648 }
 .bg-neutral-90 { background-color: #394B5B }
 .bg-neutral-80 { background-color: #505F6D }
@@ -176,6 +181,8 @@
 
 .hover-bg-white:hover,
 .hover-bg-white:focus { background-color: #FFFFFF }
+.hover-bg-black:hover,
+.hover-bg-black:focus { background-color: #070B14 }
 .hover-bg-neutral:hover,
 .hover-bg-neutral:focus { background-color: #293648 }
 .hover-bg-neutral-90:hover,

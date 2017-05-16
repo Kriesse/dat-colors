@@ -5,6 +5,7 @@ CSS color variables for Dat
 ````css
 :root {
   --color-white: #FFFFFF;
+  --color-black: #070B14;
   --color-neutral: #293648;
   --color-neutral-90: #394B5B;
   --color-neutral-80: #505F6D;

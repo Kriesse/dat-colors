@@ -1,5 +1,6 @@
 module.exports = {
   white: '#FFFFFF',
+  black: '#070B14';
   neutral: '#293648',
   neutral90: '#394B5B',
   neutral80: '#505F6D',
